@@ -1,0 +1,8 @@
+body {
+  background-image: url(../images/sunny-day.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin-top: 25%;
+  margin-left: 25%;
+}
